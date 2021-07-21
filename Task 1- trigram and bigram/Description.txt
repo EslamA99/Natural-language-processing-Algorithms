@@ -1,0 +1,2 @@
+DataTemp is dataSet
+this program is predicting word or two givin word or two
